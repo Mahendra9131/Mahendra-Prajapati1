@@ -1,1 +1,1 @@
-# Mahendra-Prajapati1
+# Stellar-Workshop-Template
